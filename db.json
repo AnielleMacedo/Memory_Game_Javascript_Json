@@ -1,0 +1,85 @@
+{
+    "cards":
+       {
+           "frontCover": "./img/verso.jpg",
+           "nCols": 4,
+           "nRows": 3,  
+           "cardList":
+        [
+           {
+               "seed": "A",
+               "value": "1",
+               "name": "Salvador",
+               "backCover": "/img/img1.jpg"
+           },
+           {
+               "seed": "B",
+               "value": "1",
+               "name": "Salvador",
+               "backCover": "/img/img1.jpg"
+           },
+           {
+               "seed": "C",
+               "value": "2",
+               "name": "Tambau",
+               "backCover": "/img/img2.jpg"
+           },
+           {
+               "seed": "D",
+               "value": "2",
+               "name": "Tambau",
+               "backCover": "/img/img2.jpg"
+           },
+           {
+               "seed": "E",
+               "value": "3",
+               "name": "Iguacu",
+               "backCover": "/img/img3.jpg"
+           },
+           {
+               "seed": "F",
+               "value": "3",
+               "name": "Iguacu",
+               "backCover": "/img/img3.jpg"
+           },
+           {
+               "seed": "G",
+               "value": "4",
+               "name": "VilaNova",
+               "backCover": "/img/img4.jpg"
+           },
+           {
+               "seed": "H",
+               "value": "4",
+               "name": "VilaNova",
+               "backCover": "/img/img4.jpg"
+           },
+           {
+               "seed": "I",
+               "value": "5",
+               "name": "Recife",
+               "backCover":"/img/img5.jpg"
+           },
+           {
+               "seed": "L",
+               "value": "5",
+               "name": "Recife",
+               "backCover": "/img/img5.jpg"
+           },
+           {
+               "seed": "M",
+               "value": "6",
+               "name": "Rio",
+               "backCover": "/img/img6.jpg"
+           },
+           {
+               "seed": "N",
+               "value": "6",
+               "name": "Rio",
+               "backCover": "/img/img6.jpg"
+           }
+       ]
+     }
+    }
+    
+    

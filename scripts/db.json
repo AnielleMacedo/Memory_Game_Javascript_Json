@@ -1,0 +1,35 @@
+{
+    "display":{
+    "cards":[ 
+        {
+            "seed":"S",
+            "value":"Q",
+            "name":"Queen of spades",
+            "url": "maca"
+        },
+        {
+            "seed":"C",
+            "value":"Q",
+            "name":"Ace of Spades",
+            "url": "maca"
+        },
+        {
+            "seed":"H",
+            "value":"2",
+            "name":"Two of Hearts",
+            "url": "maca"
+        },
+        {
+            "seed":"D",
+            "value":"A",
+            "name":"Ace of Diamonds",
+            "url": "maca"
+        }
+    ],
+    "grid":
+    {
+        "linha": "4",
+        "coluna": "4"
+        }
+    }
+}
